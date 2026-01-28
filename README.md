@@ -1,7 +1,8 @@
 # a-math-puzzle-for-elementary-by-Java
-import java.util.Scanner;
 
-public class EasyMathPuzzleNoFile {
+     import java.util.Scanner;
+
+    public class EasyMathPuzzleNoFile {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
